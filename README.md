@@ -8,8 +8,9 @@ This project aims to answer critical questions by exploring and analyzing data f
 ## Step 1: Exploring the Menu Items Table
 
 - Identified the Total Number of Items on the Menu:<br/>
-  SELECT COUNT(*)
-  FROM menu_items;
+  SELECT COUNT(*)<br/>
+  FROM menu_items;<br/>
+  
 - Determinined  the Most and Least Expensive Items:<br/>
   - Most Expensive Item:
     SELECT * 

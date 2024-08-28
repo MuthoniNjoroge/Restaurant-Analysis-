@@ -1,11 +1,11 @@
 # Restaurant Data Analysis Using SQL
-
-## Project Steps
  
 ## Introduction
 Understanding customer behavior is crucial for any food service organization in the dynamic restaurant industry. Imagine being able to pinpoint which dishes on your menu captivate your customers the most or identifying the orders that bring in the highest revenue. This SQL project dives deep into restaurant data to conduct an intricate analysis of customer behavior, offering valuable insights that can drive strategic decision-making.
 
 This project aims to answer critical questions by exploring and analyzing data from the **Orders Details** and **Menu Items** tables. The analysis focuses on identifying the most and least ordered items, understanding the spending patterns of customers, and providing a comprehensive view of customer preferences and trends in a restaurant setting.
+
+## Project Steps
 
 ##  Step 1: Exploring the menu_items Table
 

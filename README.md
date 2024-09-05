@@ -1,5 +1,6 @@
 # Restaurant Data Analysis Using SQL
- 
+ ![pexels-igor-starkov-233202-1307698](https://github.com/user-attachments/assets/8c0121ae-c41f-402c-b0d0-d872474e3af3)
+
 ## Introduction
 Understanding customer behavior is crucial for any food service organization in the dynamic restaurant industry. Imagine being able to pinpoint which dishes on your menu captivate your customers the most or identifying the orders that bring in the highest revenue. This SQL project dives deep into restaurant data to conduct an intricate analysis of customer behavior, offering valuable insights that can drive strategic decision-making.
 
